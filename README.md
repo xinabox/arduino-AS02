@@ -1,5 +1,5 @@
 # ☒CHIP CS02
-<img src="extras/CS02 V0.5.0.JPG" width="300" align="right">
+<img src="extras/CS02 V0.5.0.JPG" width="35%" height="auto" align="right">
 1Mbit Memory.
 
 ## Requirements
