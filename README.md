@@ -2,6 +2,8 @@
 <img src="extras/CS02 V0.5.0.JPG" width="35%" height="auto" align="right">
 1Mbit Memory.
 
+This module can be purchased on [Xinabox CC](https://xinabox.cc/products/CS02/).
+
 ## Requirements
   - [☒Core Library](https://github.com/xinabox/xCore)
   - [Arduino IDE 1.8.1](https://www.arduino.cc/en/main/software)
