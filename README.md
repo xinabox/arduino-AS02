@@ -1,8 +1,8 @@
-# ☒CHIP CS02
-<img src="extras/CS02 V0.5.0.JPG" width="35%" height="auto" align="right">
+# ☒CHIP AS02
+<img src="extras/AS02 V1.0.1.JPG" width="35%" height="auto" align="right">
 1Mbit Memory.
 
-This module can be purchased on [Xinabox CC](https://xinabox.cc/products/CS02/).
+This module can be purchased on [Xinabox CC](https://xinabox.cc/products/AS02/).
 
 ## Requirements
   - [☒Core Library](https://github.com/xinabox/xCore)
